@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chatta", "Chatta\Chatta.csproj", "{669E6BA8-FF95-44DF-9CA1-47480FAF6B4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{669E6BA8-FF95-44DF-9CA1-47480FAF6B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{669E6BA8-FF95-44DF-9CA1-47480FAF6B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{669E6BA8-FF95-44DF-9CA1-47480FAF6B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{669E6BA8-FF95-44DF-9CA1-47480FAF6B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3DA68F1-9EB2-4BE8-A25E-BC6217BFD371}
+	EndGlobalSection
+EndGlobal
