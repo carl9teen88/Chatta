@@ -3,7 +3,7 @@
 }
 
 <div class="jumbotron">
-    <h1>Chatta!</h1>
+    <h1 id="welcomeMessage">@ViewBag.Name</h1>
 </div>
 
 <div class="row">
@@ -11,7 +11,7 @@
         <h2>Chat</h2>
         <textarea id="chatMessage" placeholder="Write message!" rows="7" cols="50"></textarea>
         <br><br>
-        <button id="sendNow">Send</button>
+        <input id="uploadImage" type="file" name="pic"><button id="sendNow">Send</button>
     </div>
 
     <div class="col-md-6">

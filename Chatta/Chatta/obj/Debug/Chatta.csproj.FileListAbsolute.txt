@@ -51,3 +51,15 @@ E:\Sample code\Chat\Chatta\Chatta\obj\Debug\Chatta.csprojResolveAssemblyReferenc
 E:\Sample code\Chat\Chatta\Chatta\obj\Debug\Chatta.csproj.CoreCompileInputs.cache
 E:\Sample code\Chat\Chatta\Chatta\obj\Debug\Chatta.dll
 E:\Sample code\Chat\Chatta\Chatta\obj\Debug\Chatta.pdb
+E:\Sample code\Chat\Chatta\Chatta\bin\SimpleInjector.dll
+E:\Sample code\Chat\Chatta\Chatta\bin\SimpleInjector.Integration.Web.dll
+E:\Sample code\Chat\Chatta\Chatta\bin\SimpleInjector.Integration.Web.Mvc.dll
+E:\Sample code\Chat\Chatta\Chatta\bin\SimpleInjector.xml
+E:\Sample code\Chat\Chatta\Chatta\bin\SimpleInjector.Integration.Web.xml
+E:\Sample code\Chat\Chatta\Chatta\bin\SimpleInjector.Integration.Web.Mvc.xml
+E:\Sample code\Chat\Chatta\Chatta\bin\EntityFramework.dll
+E:\Sample code\Chat\Chatta\Chatta\bin\EntityFramework.SqlServer.dll
+E:\Sample code\Chat\Chatta\Chatta\bin\EntityFramework.xml
+E:\Sample code\Chat\Chatta\Chatta\bin\EntityFramework.SqlServer.xml
+E:\Sample code\Chat\Chatta\Chatta\obj\Debug\Chatta.Migrations.AddUser.resources
+E:\Sample code\Chat\Chatta\Chatta\obj\Debug\Chatta.csproj.GenerateResource.Cache
